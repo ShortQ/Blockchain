@@ -556,3 +556,9 @@ h6,
 #msg-box3-n p {
   color: #000;
 }
+#content1-p LI {
+  text-align: center;
+}
+#content1-p UL {
+  text-align: right;
+}
