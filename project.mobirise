@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
+        "warningColor": "#faaf40",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -96,7 +96,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -109,7 +109,7 @@
               "src": "@PROJECT_PATH@/assets/images/-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -119,8 +119,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">區塊鏈介紹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-5\">生產流程</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-5\">市面案例</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">要用甚麼?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts5-b\">聯絡我們</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">食在安心</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">區塊鏈介紹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-5\">生產流程</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-8\">市面案例</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">要用甚麼?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts1-f\">聯絡我們</a></li>"
         },
         {
           "_tags": [
@@ -417,37 +417,18 @@
           "subtitle": "將農業導入區塊鏈技術，將食品製造流程變得公開透明，任何異常都無所遁形。"
         },
         {
-          "_inherit": "contacts3",
-          "_styles": {
-            "p, .list-group-text, .form-control-label": {
-              "color": "#000"
-            },
-            "strong, h4": {
-              "color": "#7e9b9f"
-            },
-            "form .form-control": {
-              "border-color": "rgba(0, 0, 0, 0.2)",
-              "color": "#565656"
-            },
-            ".mbr-footer-content li": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
-            },
-            ".mbr-company .list-group-text::after": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-b",
+          "_name": "contacts1",
+          "_anchor": "contacts1-f",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -455,80 +436,26 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
               "name": "phone",
+              "family": "et-line",
+              "link": "",
               "size": 0,
-              "family": "et-line"
+              "active": true
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Street Name, City AA 99999",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts5",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
-          "form": {
-            "title": "MESSAGE",
-            "action": "et888520@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>"
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\nEmail: et888520@gmail.com",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         }
       ]
     }
