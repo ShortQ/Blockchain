@@ -552,10 +552,6 @@ h6,
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box3-n .mbr-section-title,
-#msg-box3-n p {
-  color: #000;
-}
 #content1-p LI {
   text-align: center;
 }
