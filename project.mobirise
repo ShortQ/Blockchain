@@ -588,7 +588,7 @@
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://\" data-toolbar=\"-mbrBtnMove\"><!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KlK2TlCVb1UtuJ9vqQ8\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a>"
         },
         {
           "_tags": [
