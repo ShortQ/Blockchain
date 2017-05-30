@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Food Traceability Using Blockchain Technology",
-    "currentPage": "index.html",
+    "currentPage": "reference.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -751,8 +751,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br><br><br>參考文獻",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "<br><br><br>專題參考文獻",
+          "meta": "劉睿鈞於2017/5/31最後修改"
         },
         {
           "_tags": [
@@ -765,7 +765,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make</p>"
+          "text": "<p><a href=\"http://\"><!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KlP-W1TwCrgoaGd2Yhm\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>"
         },
         {
           "_tags": [
