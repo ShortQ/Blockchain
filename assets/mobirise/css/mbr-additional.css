@@ -485,11 +485,23 @@ h6,
 #header6-c .mbr-section-text {
   color: #565656;
 }
+#features6-5 P {
+  text-align: left;
+}
 #testimonials1-8 .card-block DIV {
   text-align: center;
 }
 #testimonials1-8 .card-block {
   text-align: left;
+}
+#contacts1-f P {
+  color: #c0a375;
+}
+#contacts1-f FONT {
+  color: #c0a375;
+}
+#contacts1-f SPAN {
+  color: #ffffff;
 }
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
@@ -562,6 +574,15 @@ h6,
 #content1-p UL {
   text-align: right;
 }
+#contacts1-m P {
+  color: #c0a375;
+}
+#contacts1-m FONT {
+  color: #c0a375;
+}
+#contacts1-m SPAN {
+  color: #ffffff;
+}
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -626,4 +647,13 @@ h6,
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
   text-align: center;
+}
+#contacts1-10 P {
+  color: #c0a375;
+}
+#contacts1-10 FONT {
+  color: #c0a375;
+}
+#contacts1-10 SPAN {
+  color: #ffffff;
 }

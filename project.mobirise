@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Food Traceability Using Blockchain Technology",
-    "currentPage": "reference.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -106,7 +106,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/-128x128.png",
               "height": 128,
               "alt": "Mobirise",
@@ -116,8 +115,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
@@ -159,7 +162,7 @@
           },
           "title": "食品履歷追溯之區塊鏈應用",
           "text": "近年來，食品安全問題接二連三在台灣爆發，例如之前的地溝油事件、塑化劑事件等等。當人們逐漸開始注重食品安全，開發一套食品履歷追溯系統變得更加重要。因此我們決定運用最近興起的區塊鏈技術，來發展一個食品履歷追溯系統。區塊鏈的特色如不可竄改性、共識決、去中心化和分散式帳本等，運用在食品履歷追溯系統將會是一個重要的關鍵技術，使得食品可以追溯來源，紀錄一切流程，並且不會輕易被竄改。<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>加入我們Facebook專頁大家庭!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>追蹤我們YouTube獲得第一手資訊!</a>"
         },
         {
           "_inherit": "header2",
@@ -260,13 +263,13 @@
           },
           "title1": "原物料",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "原料肉進料時的藥物殘留檢驗、選肉階段去除不適用的部位、包裝儲存溫度的監控、上游廠商與進貨日期等，都是食品安全的重要管制點。<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "smile-face",
+              "name": "magic-stick",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -275,7 +278,7 @@
           },
           "title2": "種植與養殖",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "農業區塊鏈平臺記錄所有田地資訊、 種苗、農藥與肥料使用、農機具的安排等待交換訊息，「商業智慧合約」匯入銷售預測、 天候、水利、土壤等生產條件所產生的生產決策資訊，人工智慧系統運算產生各種情境， 指導農民田間作業。",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -290,7 +293,7 @@
           },
           "title3": "加工與製造",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "再往前一探摃丸的製造流程。不管摃丸是在一般家庭工廠或有規模的工廠製造， 都需經過進料、選肉、削肉、絞肉、打漿、 成形、水煮、冷卻、包裝、入庫儲存等流程， 必須層層把關。<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -305,7 +308,7 @@
           },
           "title4": "運送與物流",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "農機具、車輛、倉儲、種苗農肥料等原物料也可貼上 RFID，設備互聯與排工交易，以 合乎最大經濟效益的原則大批量施作。所有流程運行的農情資訊由遙測。<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -320,7 +323,7 @@
           },
           "title5": "倉儲與儲存",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "影響產品品質的因素有運送過程、包裝材料及儲存設備與溫度，而造成產品品質變化的最大要素就是儲存設備與儲存溫度（這兩個是重要管制點），也是消費者最直接接觸的過程。",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -335,8 +338,13 @@
           },
           "title6": "銷售與販賣",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "caption6": "當在市面上購買一斤摃丸，形式可能是包裝或散裝，地點可能是門市或傳統市場，販售溫度可能是冷凍或常溫，這是產品在流通市場的階段。",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -456,7 +464,18 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            },
+            "FONT": {
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -635,7 +654,18 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            },
+            "FONT": {
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -751,7 +781,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<br><br><br>專題參考文獻",
+          "title": "<br><br>專題參考文獻",
           "meta": "劉睿鈞於2017/5/31最後修改"
         },
         {
@@ -806,7 +836,18 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            },
+            "FONT": {
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
