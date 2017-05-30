@@ -503,6 +503,9 @@ h6,
 #contacts1-f SPAN {
   color: #ffffff;
 }
+#contacts1-f STRONG {
+  color: #ffffff;
+}
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
   text-align: center;
@@ -583,6 +586,9 @@ h6,
 #contacts1-m SPAN {
   color: #ffffff;
 }
+#contacts1-m STRONG {
+  color: #ffffff;
+}
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -655,5 +661,8 @@ h6,
   color: #c0a375;
 }
 #contacts1-10 SPAN {
+  color: #ffffff;
+}
+#contacts1-10 STRONG {
   color: #ffffff;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Food Traceability Using Blockchain Technology",
-    "currentPage": "index.html",
+    "currentPage": "reference.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -474,6 +474,9 @@
             },
             "SPAN": {
               "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           }
         }
@@ -577,7 +580,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/-128x128.png",
               "height": 128,
               "alt": "Mobirise",
@@ -587,8 +589,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
@@ -663,6 +669,9 @@
               "color": "#c0a375"
             },
             "SPAN": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
               "color": "#ffffff"
             }
           }
@@ -747,7 +756,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/-128x128.png",
               "height": 128,
               "alt": "Mobirise",
@@ -757,8 +765,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
@@ -845,6 +857,9 @@
               "color": "#c0a375"
             },
             "SPAN": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
               "color": "#ffffff"
             }
           }
