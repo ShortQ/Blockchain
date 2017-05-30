@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Food Traceability Using Blockchain Technology",
-    "currentPage": "reference.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -118,9 +118,10 @@
               "linkInNewWindow": false,
               "name": "genius",
               "family": "et-line",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
@@ -462,7 +463,7 @@
               "active": true
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
           "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
           "_styles": {
@@ -592,9 +593,10 @@
               "linkInNewWindow": false,
               "name": "genius",
               "family": "et-line",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
@@ -658,7 +660,7 @@
               "active": true
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
           "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
           "_styles": {
@@ -847,7 +849,7 @@
               "active": true
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br>台中市南區興大路145號綜合大樓609室<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
           "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
           "_styles": {
