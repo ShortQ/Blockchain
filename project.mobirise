@@ -768,9 +768,10 @@
               "linkInNewWindow": false,
               "name": "genius",
               "family": "et-line",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
