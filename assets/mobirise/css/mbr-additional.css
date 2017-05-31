@@ -485,6 +485,21 @@ h6,
 #header6-c .mbr-section-text {
   color: #565656;
 }
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-1n .card-subtitle {
+  color: #faaf40;
+}
+#features4-1n .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
 #features6-5 P {
   text-align: left;
 }
