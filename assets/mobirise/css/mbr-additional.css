@@ -489,6 +489,10 @@ h6,
 #header3-1p .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-1n .card-subtitle {
   color: #faaf40;
 }
@@ -499,6 +503,9 @@ h6,
 #header3-1o .mbr-section-title,
 #header3-1o .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1o H3 {
+  text-align: right;
 }
 #features6-5 P {
   text-align: left;
