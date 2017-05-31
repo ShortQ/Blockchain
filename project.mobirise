@@ -235,27 +235,7 @@
           "_anchor": "header3-1p",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "區塊鏈特性",
-          "meta": "Blockchain Characteristics"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": true
           },
