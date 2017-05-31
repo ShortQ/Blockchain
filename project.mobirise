@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Food Traceability Using Blockchain Technology",
-    "currentPage": "members.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -234,7 +234,7 @@
           "_name": "header3",
           "_anchor": "header3-1p",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -391,7 +391,7 @@
           "_name": "header3",
           "_anchor": "header3-1o",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#efefef",
             "showMeta": true
