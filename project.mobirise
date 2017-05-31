@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Food Traceability Using Blockchain Technology",
-    "currentPage": "index.html",
+    "currentPage": "members.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">區塊鏈介紹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-5\">生產流程</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-8\">市面案例</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"false\">專題相關<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gantt.html\">甘特圖</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reference.html\">參考文獻</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts1-f\">聯絡我們</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">區塊鏈介紹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-5\">生產流程</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-8\">市面案例</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"true\">專題相關<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gantt.html\">甘特圖</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reference.html\">參考文獻</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"members.html\">專題成員</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts1-f\">聯絡我們</a></li>"
         },
         {
           "_tags": [
@@ -218,9 +218,9 @@
               "size": 250
             }
           },
-          "title": "IBM的區塊鏈介紹影片",
-          "text": "學習更多有關於區塊鏈如何運作的，以及區塊鏈在鑽石產業上的應用，以解決其長期折磨於詐欺、偷竊、爭議等問題。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.ibm.com/blockchain/\" data-toolbar=\"-mbrBtnMove\">更多關於IBM區塊鏈</a>"
+          "title": "區塊鏈介紹影片",
+          "text": "學習更多有關於區塊鏈如何運作的，以及區塊鏈在鑽石產業上的應用，以解決其長期折磨於詐欺、偷竊、爭議等問題。擷取自IBM影片。",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.ibm.com/blockchain/\" data-toolbar=\"-mbrBtnMove\">更多關於區塊鏈</a>"
         },
         {
           "_inherit": "features3",
@@ -228,6 +228,11 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features6-5",
           "_params": {
             "paddingTop": 2,
@@ -346,12 +351,7 @@
           "title6": "銷售與販賣",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "當在市面上購買一斤摃丸，形式可能是包裝或散裝，地點可能是門市或傳統市場，販售溫度可能是冷凍或常溫，這是產品在流通市場的階段。",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -437,6 +437,20 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            },
+            "FONT": {
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-f",
           "_params": {
             "paddingTop": "2",
@@ -471,21 +485,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
-          "_styles": {
-            "P": {
-              "color": "#c0a375"
-            },
-            "FONT": {
-              "color": "#c0a375"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
         }
       ]
     },
@@ -634,6 +634,20 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            },
+            "FONT": {
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-m",
           "_params": {
             "paddingTop": "2",
@@ -668,21 +682,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
-          "_styles": {
-            "P": {
-              "color": "#c0a375"
-            },
-            "FONT": {
-              "color": "#c0a375"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
         }
       ]
     },
@@ -823,6 +823,20 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            },
+            "FONT": {
+              "color": "#c0a375"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-10",
           "_params": {
             "paddingTop": "2",
@@ -857,7 +871,147 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>",
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
+        }
+      ]
+    },
+    "members.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-14",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NCHU-MIS-2017-03</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">首頁</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-c\">區塊鏈介紹<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-5\">生產流程</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-8\">市面案例</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"true\">專題相關<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gantt.html\">甘特圖</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reference.html\">參考文獻</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">專題成員</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts1-f\">聯絡我們</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<br><br><font color=\"#000000\">專題成員介紹</font>",
+          "meta": "劉睿鈞於2017/5/31最後修改"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"http://\"><!-- Place this tag where you want the Awesome Table Widget to render --> <div data-type=\"AwesomeTableView\" data-viewid=\"-KlSS6nN1v0sMZqOxHtF\"></div>  <!-- Place this tag in your head or just before your close body tag. --> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
           "_styles": {
             "P": {
               "color": "#c0a375"
@@ -871,7 +1025,42 @@
             "STRONG": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_anchor": "contacts1-19",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
+          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
         }
       ]
     }
