@@ -250,6 +250,9 @@
             ".iconbox": {
               "background-color": "#f2f2f2",
               "border-color": "#f2f2f2"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -295,7 +298,7 @@
           },
           "title1": "不可竄改性",
           "subtitle1": "Immutability",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "「工作證明」讓攻擊者需要付出極為龐大的代價（例如：擁有全網路大於 50% 的計算能力）才可能對區塊鏈上的資料進行惡意的消滅和竄改。",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -312,7 +315,7 @@
           },
           "title2": "共識演算法",
           "subtitle2": "Consensus Algorithms",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "區塊鏈用密碼學的方法選擇其中一條鏈作為大家接受的事實，最終達成整個網絡的共識，因此區塊鏈也被稱為一個Trust Machine。",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -329,7 +332,7 @@
           },
           "title3": "去中心化",
           "subtitle3": "Decentralization",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "食品履歷區塊鏈可自動記錄上下游原物料、加工、運送與倉儲等步驟，讓供應鏈環環相扣，自動形成完整的食品履歷。若用傳統的中心化架構，需事先申請繁瑣規範的中央資料庫作為中心，耗費相當的時間與金錢。",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -346,7 +349,7 @@
           },
           "title4": "分散式帳本",
           "subtitle4": "Distriburted Ledgers",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "帳本記錄從該區塊鏈創始以來發生的所有交易列表。而對於食品履歷的分散式帳本，每個經手的關係人都經由區塊鏈網路中的所有分散式節點，擁有同一份帳本。",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -450,7 +453,7 @@
           },
           "title1": "原物料",
           "subtitle1": "Raw Materials",
-          "caption1": "原料肉進料時的藥物殘留檢驗、選肉階段去除不適用的部位、包裝儲存溫度的監控、上游廠商與進貨日期等，都是食品安全的重要管制點。<br>",
+          "caption1": "原料料進料時的藥物殘留檢驗、包裝儲存溫度的監控、上游廠商與進貨日期等，都是食品履歷的重要資料。<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -466,7 +469,7 @@
           },
           "title2": "種植與養殖",
           "subtitle2": "Breeding and Planting",
-          "caption2": "農業區塊鏈平臺記錄所有田地資訊、 種苗、農藥與肥料使用、農機具的安排等待交換訊息，「商業智慧合約」匯入銷售預測、 天候、水利、土壤等生產條件所產生的生產決策資訊，人工智慧系統運算產生各種情境， 指導農民田間作業。",
+          "caption2": "食品區塊鏈記錄所有產地資訊，包括種苗、農藥與肥料使用、產地負責人以及採收日期等。",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -482,7 +485,7 @@
           },
           "title3": "加工與製造",
           "subtitle3": "Processing",
-          "caption3": "再往前一探摃丸的製造流程。不管摃丸是在一般家庭工廠或有規模的工廠製造， 都需經過進料、選肉、削肉、絞肉、打漿、 成形、水煮、冷卻、包裝、入庫儲存等流程， 必須層層把關。<br>",
+          "caption3": "食品在工廠經過加工與製造，從進料、添加物、冷卻、包裝、入庫儲存等流程， 必須層層把關。<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -498,7 +501,7 @@
           },
           "title4": "運送與物流",
           "subtitle4": "Distribution",
-          "caption4": "農機具、車輛、倉儲、種苗農肥料等原物料也可貼上 RFID，設備互聯與排工交易，以 合乎最大經濟效益的原則大批量施作。所有流程運行的農情資訊由遙測。<br>",
+          "caption4": "農機具、車輛等設備貼上RFID，運送過程當中的溫溼度將隨時監控，而GPS也將追蹤車輛的動線。<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -514,7 +517,7 @@
           },
           "title5": "倉儲與儲存",
           "subtitle5": "Warehouse",
-          "caption5": "影響產品品質的因素有運送過程、包裝材料及儲存設備與溫度，而造成產品品質變化的最大要素就是儲存設備與儲存溫度（這兩個是重要管制點），也是消費者最直接接觸的過程。",
+          "caption5": "影響產品品質的因素也包含包裝材料及儲存設備與儲存溫度，因此需要裝備感測器以監控相關數據。",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -530,7 +533,7 @@
           },
           "title6": "銷售與販賣",
           "subtitle6": "Retail",
-          "caption6": "當在市面上購買一斤摃丸，形式可能是包裝或散裝，地點可能是門市或傳統市場，販售溫度可能是冷凍或常溫，這是產品在流通市場的階段。",
+          "caption6": "食品販賣的場域可能是超市或大賣場，消費者在此階段可以掃描貨品上的條碼以獲得食品履歷。",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -665,7 +668,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
+          "text3": "Links<br><br>A<br>B"
         }
       ]
     },
