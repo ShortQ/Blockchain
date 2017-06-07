@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -159,11 +159,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "食品履歷追溯之區塊鏈應用",
           "text": "近年來，食品安全問題接二連三在台灣爆發，例如之前的地溝油事件、塑化劑事件等等。當人們逐漸開始注重食品安全，開發一套食品履歷追溯系統變得更加重要。因此我們決定運用最近興起的區塊鏈技術，來發展一個食品履歷追溯系統。區塊鏈的特色如不可竄改性、共識決、去中心化和分散式帳本等，運用在食品履歷追溯系統將會是一個重要的關鍵技術，使得食品可以追溯來源，紀錄一切流程，並且不會輕易被竄改。<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.facebook.com/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>加入我們Facebook專頁大家庭!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>追蹤我們YouTube獲得第一手資訊!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://docs.google.com/presentation/d/1kNPAo71EWakCYYgRMEYnbJg25uWHzMMntUWd1E5DO_w/edit#slide=id.p\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>觀看專題簡報</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.mindomo.com/zh/mindmap/mind-map-f2bc44582b1c40c1a400927f9c3d56f2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\"></span>觀看系統建置流程</a>"
         },
         {
           "_inherit": "header2",
@@ -220,7 +220,7 @@
           },
           "title": "區塊鏈介紹影片",
           "text": "學習更多有關於區塊鏈如何運作的，以及區塊鏈在鑽石產業上的應用，以解決其長期折磨於詐欺、偷竊、爭議等問題。擷取自IBM影片。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.ibm.com/blockchain/\" data-toolbar=\"-mbrBtnMove\">更多關於區塊鏈</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.ibm.com/blockchain/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">更多關於區塊鏈</a>"
         },
         {
           "_styles": {
@@ -668,7 +668,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "Links<br><br>A<br>B"
+          "text3": ""
         }
       ]
     },
@@ -865,7 +865,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
+          "text3": ""
         }
       ]
     },
@@ -1054,7 +1054,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
+          "text3": ""
         }
       ]
     },
@@ -1243,7 +1243,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡地址</b></span></font><br><a href=\"https://www.google.com.tw/maps/place/402%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%8D%97%E5%8D%80%E7%B6%9C%E5%90%88%E6%95%99%E5%AD%B8%E5%A4%A7%E6%A8%93/@24.1218262,120.6711098,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfdfa9011c7:0xa7cb8d1eaa3430a2!8m2!3d24.1218096!4d120.6726809\">台中市南區興大路145號綜合大樓609室</a><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>聯絡信箱</b></span></font><br>\nEmail: et888520@gmail.com",
-          "text3": "<strong>Links</strong><br><a href=\"https://www.facebook.com/\">F</a><font color=\"#000000\"><a href=\"https://www.facebook.com/\">acebook</a></font><br><a href=\"https://www.youtube.com/\">Youtube</a>"
+          "text3": ""
         }
       ]
     }
